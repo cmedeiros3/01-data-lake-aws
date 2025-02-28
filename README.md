@@ -1,2 +1,4 @@
 # 01-data-lake-aws
-Criação de um datalake usando AWS
+- Construção de um Data Lake no S3  
+   - Transformação de dados com PySpark e AWS Glue  
+   - Análises SQL usando AWS Athena  
